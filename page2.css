@@ -1,0 +1,12 @@
+h1 {
+color: orange;
+    
+}
+div h1{
+    text-align: right;
+    color: black;
+}
+div p{
+ font: weight 100px;;
+    text-align: right;
+}

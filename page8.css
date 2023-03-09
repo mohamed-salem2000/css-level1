@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(237, 237, 138);
+    width: auto;
+}
+#continers{
+
+    height: 900px;
+    
+    background-color: white;
+    margin:auto;
+    width: 80%;
+  
+
+}
+h1{
+    background-color: rgb(235,222,82);
+    width: auto;
+    padding: 20px;
+   
+    margin: 0;
+}
+.side{
+    background-color:rgb(227,227,227);
+    float: right;
+    height: 823px;
+    width: 300px;
+}
+footer{
+    background-color: rgb(105,105,105);
+    width: auto;
+    text-align: center;
+    height: 50px;
+    padding: 5PX;
+    
+
+   
+    
+}
+footer div {
+padding: 10px;}
+.pad{
+    padding: 20px;
+}

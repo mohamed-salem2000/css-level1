@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(255,247,240);
+}
+.border1 {
+    border: 1px black solid;
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    width: 70%;
+}
+.border2 {
+    border: 2px black dotted;
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    width: 70%;
+}
+.border3 {
+    border: 2px black dotted;
+    margin: 10px;
+    padding: 20px;
+    color: blueviolet;
+    background-color: white;
+    width: 70%;
+}
+h1 {
+    padding: 5px;
+}
+.p1{
+
+    border:2px  red dotted;
+}
+span{
+    background-color: orange;
+}

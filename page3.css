@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255,198,143);
+    color: rgb(27,122,14);
+    font-weight: bold;
+}
+img{
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+div p{
+height: 300px;
+}

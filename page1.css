@@ -1,0 +1,27 @@
+div p{
+        color: blue;
+    } 
+
+.first-link a{
+color: rgb(255,177,38);
+}
+
+.secoend-link a{
+    background-color: yellow;
+    }
+    li a{
+
+        color: red;
+    }
+    .li-pad{
+        padding:10px;
+    }
+    #noformat-style{
+        list-style-type: none;
+    }
+    div li{
+
+        color: blue;
+    }
+    
+   
